@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Someone's Site",              // 站点名称
+  title: "wah's Site",              // 站点名称
   tagline: 'The tagline of this site',  // 站点描述
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
