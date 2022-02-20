@@ -1,8 +1,9 @@
 ---
-id: hoy
 title: 天气好热啊
 date: 2017-08-01 12：35：09
-tags: mood
+tags: 
+- mood
+- daily
 ---
 >据说夏天和高温很配哟
 
